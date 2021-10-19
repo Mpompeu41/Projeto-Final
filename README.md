@@ -1,2 +1,2 @@
-# Projeto-Final
-Criei uma pagina de venda HTML, CSS, EXPRESS, NODE.JS e BANCO DADOS SQL
+# POKEDEX-Node
+Projeto 02 modulo-02
